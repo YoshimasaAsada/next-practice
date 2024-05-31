@@ -6,7 +6,7 @@ export default function Page() {
     <div className="flex justify-around items-center h-screen">
       <Sidebar />
       <div>
-        <h1>動画の埋め込み</h1>
+        <h1>天才エンジニアあさだのありがたい講義part2</h1>
         <video width="600" controls>
           <source src="/mov_hts-samp005.mp4" type="video/mp4" />
           お使いのブラウザはvideoタグをサポートしていません。
